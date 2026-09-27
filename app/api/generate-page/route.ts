@@ -11,7 +11,7 @@ import type {
 export const runtime = "nodejs";
 
 const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
-const DEFAULT_MODEL = "inclusionai/ling-3.0-flash-vl:free";
+const DEFAULT_MODEL = "inclusionai/ling-3.0-flash-fin:free";
 
 // ---------------------------------------------------------------------------
 // Schema description embedded in the system prompt so the model knows the
